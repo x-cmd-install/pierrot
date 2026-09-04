@@ -1,11 +1,13 @@
 about:
-  description: Multi-repository GitHub Governance Tool
+  description:
+  |
+    Multi-repository GitHub Governance Tool
   license: Apache-2.0
   homepage: 
   head: 6a074a9
   archived: false
   latestVersion: 1.0.1
-  collectedAt: 2026-09-04T04:56:44Z
+  collectedAt: 2026-09-04T19:52:59Z
 timeline:
   created: 2021-10-19
   lastCommit: 2025-05-02
@@ -15,16 +17,24 @@ popularity:
   watcher: 13
   fork: 3
   release: 22
-  contributor: 13
-  pullRequest: 16
+  contributor: 4
+  pullRequest: 43
   issue: 20
 language:
   Java: 143024
   Groovy: 31256
-totalLine: 174280
+totalBytes: 174280
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+total:
+  release: 22
+  mergedPR: 27
+  openPR: 4
+  closedIssue: 10
+  openIssue: 10
+  commit: 110
+---
+---
+
