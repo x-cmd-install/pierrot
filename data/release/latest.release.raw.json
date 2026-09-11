@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21655681,
       "digest": null,
-      "download_count": 1445,
+      "download_count": 1446,
       "created_at": "2025-03-27T10:52:46Z",
       "updated_at": "2025-03-27T10:52:47Z",
       "browser_download_url": "https://github.com/agorapulse/pierrot/releases/download/1.0.1/pierrot-linux-amd64-v1.0.1.zip"
